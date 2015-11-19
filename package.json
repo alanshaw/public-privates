@@ -2,6 +2,6 @@
   "name": "public-privates",
   "version": "1.0.0",
   "dependencies": {
-    "@tableflip/i18nify"
+    "@tableflip/i18nify": "^2.1.0"
   }
 }
